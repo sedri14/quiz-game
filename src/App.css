@@ -1,4 +1,4 @@
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -29,9 +29,9 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
 
-@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+/* @import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
 
 * {
   margin: 0;
@@ -48,10 +48,9 @@ body {
   font-family: "Press Start 2P", sans-serif;
   color: #eee;
   background-color: #60c7cc;
-  /* background-color: #60b347; */
+  background-color: #60b347;
 }
 
-/* LAYOUT */
 header {
   position: relative;
   height: 35vh;
@@ -66,7 +65,6 @@ main {
   justify-content: space-around;
 }
 
-/* ELEMENTS STYLE */
 h1 {
   font-size: 4rem;
   text-align: center;
@@ -154,7 +152,8 @@ h1 {
 .answer-rec {
   width: 400px;
   min-height: 100px;
-  /* -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
-  clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0); */
+  -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
+  clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
   background: green;
-}
+} 
+*/
